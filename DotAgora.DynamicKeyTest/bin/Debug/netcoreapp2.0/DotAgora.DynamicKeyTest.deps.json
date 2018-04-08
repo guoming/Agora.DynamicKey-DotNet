@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "DotAgora.DynamicKeyTest/1.0.0": {
+        "dependencies": {
+          "DotAgora.DynamicKey": "1.0.0"
+        },
+        "runtime": {
+          "DotAgora.DynamicKeyTest.dll": {}
+        }
+      },
+      "DotAgora.DynamicKey/1.0.0": {
+        "runtime": {
+          "DotAgora.DynamicKey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotAgora.DynamicKeyTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotAgora.DynamicKey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
