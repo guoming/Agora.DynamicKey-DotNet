@@ -1,0 +1,4 @@
+C:\sources\Git\geniusming\Agora.DynamicKey-DotNet\Agora.DynamicKey-DotNetTest\obj\Debug\netcoreapp2.0\Agora.DynamicKey-DotNet.csprojResolveAssemblyReference.cache
+C:\sources\Git\geniusming\Agora.DynamicKey-DotNet\Agora.DynamicKey-DotNetTest\obj\Debug\netcoreapp2.0\Agora.DynamicKey-DotNet.csproj.CoreCompileInputs.cache
+C:\sources\Git\geniusming\Agora.DynamicKey-DotNet\Agora.DynamicKey-DotNetTest\obj\Debug\netcoreapp2.0\Agora.DynamicKey-DotNet.AssemblyInfoInputs.cache
+C:\sources\Git\geniusming\Agora.DynamicKey-DotNet\Agora.DynamicKey-DotNetTest\obj\Debug\netcoreapp2.0\Agora.DynamicKey-DotNet.AssemblyInfo.cs

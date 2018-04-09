@@ -1,9 +1,9 @@
 # DotAgora.DynamicKey
 # Example
     using System;
-    using DotAgora.DynamicKey;
-    using DotAgora.DynamicKey.Extersions;
-    namespace DotAgora.DynamicKeyUnitTest
+    using Agora.DynamicKey;
+    using Agora.DynamicKey.Extersions;
+    namespace Agora.DynamicKeyTest
     {
         public class Program
         {
